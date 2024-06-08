@@ -1,0 +1,27 @@
+{
+  "name": "newbootstrapproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwas145567/NewBootStrapProject.git"
+  },
+  "keywords": [
+    "NewProject",
+    "BootStrap"
+  ],
+  "author": "Vishwas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwas145567/NewBootStrapProject/issues"
+  },
+  "homepage": "https://github.com/vishwas145567/NewBootStrapProject#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.77.4"
+  }
+}

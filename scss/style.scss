@@ -1,0 +1,14 @@
+@use "BootStrap.scss" as bootstrap;
+
+.btn-group-toggle .btn {
+  margin-right: 5px;
+}
+.screen {
+  background-color: #332703;
+  color: white;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
